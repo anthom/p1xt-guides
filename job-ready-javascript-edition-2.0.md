@@ -1,3 +1,5 @@
+I am using this fork of the updated guide as a personal tracking tool. I aim to show regular progress and improvement through my commits.
+
 # Get Job ready - JavaScript Edition - Version 2.0
 A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
 
